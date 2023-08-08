@@ -53,10 +53,10 @@ Make Pull requests which improve the functionality of the application in any sor
 I am From **Hyderabad**
 
 
-|                                                                                     <a href="https://github.com/ramidimeghanareddy"><img src="https://i.ibb.co/JCdtj0v/Whats-App-Image-2020-05-18-at-9-41-11-PM.jpg" width=170px height=165px /></a>                                                                                         |
+|                                                                                     <a href="https://github.com/ramidimeghanareddy"><img src="[https://i.ibb.co/JCdtj0v/Whats-App-Image-2020-05-18-at-9-41-11-PM.jpg](https://avatars.githubusercontent.com/u/129314031?s=400&u=686aaf7e980dc642e80fe21848b09dde828e9e5f&v=4)" width=170px height=165px /></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                        **[Meghana Ramidi](https://avatars.githubusercontent.com/u/129314031?s=400&u=686aaf7e980dc642e80fe21848b09dde828e9e5f&v=4)**                                                                                                                                        |
- <a href="www.linkedin.com/in/meghanareddy49341/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> 
+ <a href="linkedin.com/in/meghanareddy49341"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> 
 
 ## Acknowledgments 💖
 
