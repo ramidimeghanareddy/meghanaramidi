@@ -53,7 +53,7 @@ Make Pull requests which improve the functionality of the application in any sor
 I am From **Hyderabad**
 
 
-|                                                                                     <a href="https://github.com/ramidimeghanareddy"><img src="[https://avatars.githubusercontent.com/u/129314031?s=400&u=686aaf7e980dc642e80fe21848b09dde828e9e5f&v=4]" width=170px height=165px /></a>                                                                                         |
+|                                                                                     <a href="https://github.com/ramidimeghanareddy"><img src="https://avatars.githubusercontent.com/u/129314031?s=400&u=686aaf7e980dc642e80fe21848b09dde828e9e5f&v=4" width=170px height=165px /></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                                                                        **[Meghana Ramidi](https://avatars.githubusercontent.com/u/129314031?s=400&u=686aaf7e980dc642e80fe21848b09dde828e9e5f&v=4)**                                                                                                                                        |
 
