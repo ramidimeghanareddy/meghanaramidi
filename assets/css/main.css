@@ -758,7 +758,7 @@ body{
     width:100%;padding:0 0 5px 0;background-color:transparent;border:none;border-bottom:1px solid #fff;border-radius:0
 }
 .work-request--information input[type="text"]:focus,.work-request--information input[type="email"]:focus{
-    outline:none;background-color:#0c0c0c
+    outline:none;background-color:#ffffff
 }
 .work-request--information label{
     position:absolute;top:0;left:0;pointer-events:none;-webkit-transition:top .2s ease-in-out,font-size .2s ease-in-out;transition:top .2s ease-in-out,font-size .2s ease-in-out
