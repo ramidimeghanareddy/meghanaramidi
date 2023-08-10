@@ -766,15 +766,6 @@ body{
 .work-request--information input:focus+label,.work-request--information input.has-value+label{
     top:-15px;font-size:14px
 }
-.swal2-pop{
-    background-color:#e1e1e1;
-}
-.swal2-title{
-    color:#000000;
-}
-::selection{
-    background:#b7d9e9;
-}
 @media (max-width: 767px){.work-request--options{-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-justify-content:space-around;-ms-flex-pack:distribute;justify-content:space-around}.work-request--options .options-a,.work-request--options .options-b{display:block;width:auto}}
 @media (max-width: 600px){.work-request--options{margin:20px 0}}
 @media (max-width: 600px) and (max-width: 415px){.work-request--options{-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between}}
