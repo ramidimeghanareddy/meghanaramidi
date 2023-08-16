@@ -576,6 +576,11 @@ body{
 .intro--banner img{
     position:absolute;bottom:21px;right:-12px
 }
+.img-frame {
+    background:transparent;
+    padding:8px;
+    border:1px solid #999999; 
+}
 .intro--options{
     display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;
     -webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;
