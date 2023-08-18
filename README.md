@@ -8,7 +8,8 @@
 
 This is an attempt to explain the very complex being that I am, through the language of binary. 
 
-![My Website](/Myportfolio.png)
+<img width="1439" alt="Screenshot 2023-08-18 at 3 20 23 PM" src="https://github.com/ramidimeghanareddy/meghanaramidi/assets/129314031/a5e0c9c7-3393-4581-972f-1e4326da5799">
+
 
 **Link to the website** : https://meghanaramidi-com.onrender.com
 
